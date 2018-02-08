@@ -26,7 +26,7 @@
             The department of Civil Engineering was established from the academic year 2010-11. The Main objective of the department is to impart quality education, training and research at the undergraduate and postgraduate in various areas of Civil Engineering.<br>
             Today the department has setup almost all practical laboratories with modern and major equipments. The students of FE/SE and TE are seeking professional education in the department under the supervision and guidance of faculty.The Department has well experienced and dedicated faculty with a strong commitment to engineering education.<br>
             The major areas of faculty expertise in the department includes Environmental Engineering, Structural Engineering and Geotechnical Engineering
-            <a href="about.html">(Read More)</a>
+            <a href="about.php">(Read More)</a>
         </p>
     </div>
     <div class="my-col-40-s">
