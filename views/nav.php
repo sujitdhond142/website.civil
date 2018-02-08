@@ -5,7 +5,7 @@
         </div>
         <div class="uk-navbar-right">
             <ul class="uk-navbar-nav uk-visible@m">
-                <li class="uk-active"><a href="index.html">Home</a></li>
+                <li class="uk-active"><a href="index.php">Home</a></li>
                 <li>
                     <a href="#">People</a>
                     <div class="uk-navbar-dropdown">
@@ -22,7 +22,7 @@
                     <a href="#">Academics</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="about.html#courses">Courses</a></li>
+                            <li><a href="about.php">Courses</a></li>
                             <li><a href="#">Committees</a></li>
                         </ul>
                     </div>
@@ -31,9 +31,9 @@
                     <a href="#">Calender</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="notices.html">Timetable</a></li>
+                            <li><a href="notices.php">Timetable</a></li>
                             <li><a href="#">Events</a></li>
-                            <li><a href="notices.html">Academic Calender</a></li>
+                            <li><a href="notices.php">Academic Calender</a></li>
                         </ul>
                     </div>
                 </li>
@@ -41,7 +41,7 @@
                     <a href="#">Infrastructure</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="laboratories.html">Laboratories</a></li>
+                            <li><a href="laboratories.php">Laboratories</a></li>
                         </ul>
                     </div>
                 </li>
@@ -50,8 +50,8 @@
                     <a href="#">BoS</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="boscomp.html">Composition</a></li>
-                            <li><a href="bos.html">MoM</a></li>
+                            <li><a href="boscomp.php">Composition</a></li>
+                            <li><a href="bos.php">MoM</a></li>
                         </ul>
                     </div>
                 </li>
@@ -59,12 +59,12 @@
                     <a href="#">Others</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="popeo.html">PEOs and POs</a></li>
-                            <li><a href="shortterm.html">Short Term Courses</a></li>
+                            <li><a href="popeo.php">PEOs and POs</a></li>
+                            <li><a href="shortterm.php">Short Term Courses</a></li>
                         </ul>
                     </div>
                 </li>
-                <li><a href="about.html">About Us</a></li>
+                <li><a href="about.php">About Us</a></li>
             </ul>
             <a uk-navbar-toggle-icon="" href="#offcanvas" uk-toggle="" class="uk-navbar-toggle uk-hidden@m uk-navbar-toggle-icon uk-icon">
                 <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" ratio="1">
@@ -80,7 +80,7 @@
     <div class="uk-offcanvas-bar uk-offcanvas-bar-animation uk-offcanvas-push">
         <div class="uk-panel">
             <ul class="uk-nav uk-nav-default tm-nav">
-                <li><a href="#">Home</a></li>
+                <li><a href="index.php">Home</a></li>
 
                 <li class="uk-nav-header">People</li>
                 <li><a href="#">Faculty</a></li>
@@ -98,8 +98,8 @@
                 <li><a href="#">Events</a></li>
                 <li><a href="#">Academic Calender</a></li>
 
-                <li><a href="#">Notices</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="notices.php">Notices</a></li>
+                <li><a href="about.php">About Us</a></li>
                 <li class="uk-nav-header">Infrastructure</li>
                 <li><a href="#">Laboratories</a></li>
                 <li class="uk-nav-header">BoS</li>
