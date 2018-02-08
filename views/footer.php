@@ -9,10 +9,10 @@
                     Quick Links
                 </div>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Photogallery</a></li>
-                    <li><a href="#">CIVILEVENT</a></li>
-                    <li><a href="#">About us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="photogallery.php">Photogallery</a></li>
+                    <li><a href="cesa.php">CESA</a></li>
+                    <li><a href="about.php">About us</a></li>
                 </ul>
             </div>
             <div class="my-col-3">
@@ -31,8 +31,8 @@
                     About
                 </div>
                 <ul>
-                    <li><a href="#">About us</a></li>
-                    <li><a href="#">Photogallery</a></li>
+                    <li><a href="about.php">About us</a></li>
+                    <li><a href="photogallery.php">Photogallery</a></li>
                     <li><a href="#">Faculty</a></li>
                 </ul>
             </div>

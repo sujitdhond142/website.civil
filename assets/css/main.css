@@ -35,7 +35,13 @@
 .my-col-3{
     width: 33.33%;
 }
+.my-sidebar{
+}
+.my-content{
+}
 @media screen and (max-width:640px){
+    .my-sidebar{
+    }
     .my-col-40-s,.my-col-60-s{
         width: 100%
     }
@@ -97,4 +103,32 @@
 }
 .table-width{
     max-width: 600px;
+}
+.uk-table td{
+    border-right: 1px solid #333;
+    border-collapse: collapse;
+}
+.uk-table{
+    border: 1px solid #333;
+}
+.uk-table tbody tr:last-child{
+    border-bottom: 1px solid #333;
+}
+.uk-table thead{
+    color: #ddd;
+    background: #555;
+}
+.table-width{
+    margin-left:auto;
+    margin-right:auto;
+}
+.uk-card-body{
+    padding:10px 20px;
+}
+
+.uk-card-footer{
+    /* background: rgb(22, 119, 184); */
+}
+.span-color{
+    color: blue;
 }

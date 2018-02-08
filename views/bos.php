@@ -6,7 +6,7 @@
 <ul class="uk-switcher uk-text-center uk-margin">
     <li id="mom" class="">
         <div class="uk-h3 ">
-            BoS
+            BoS MOM
         </div>
         <table class="uk-table uk-table-striped table-width">
             <thead>
