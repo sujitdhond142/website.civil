@@ -35,10 +35,5 @@
                     <td>S.Y. to L.Y.B.Tech Academic Calender 2017-18</td>
                     <td><a href="https://gcoej.ac.in/download/Final_Academic_Calendar_SY_2017-180.pdf">Download</a></td>
                 </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
             </tbody>
         </table>
