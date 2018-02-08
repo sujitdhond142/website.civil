@@ -1,4 +1,4 @@
-<div class="uk-h3">
+<div class="uk-h3 uk-text-center">
             NOTICES AND DOWNLOADS
         </div>
         <table class="uk-table uk-table-striped table-width">
