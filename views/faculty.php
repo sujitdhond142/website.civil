@@ -21,7 +21,7 @@
     <div>
         <div class="uk-card uk-card-default">
             <div class="uk-card-media-top">
-                <img src="assets/images/photo2.jpg" alt="">
+                <img src="assets/images/staff/user-male-icon.png" alt="">
             </div>
             <div class="uk-card-body">
                 <h3 class="uk-card-title">Dr. S. S. Pusadkar</h3>
