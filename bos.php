@@ -4,6 +4,7 @@
 <body>
     <div class="wrapper">
         <?php
+            $isPageBos=true;
             include_once('./views/nav.php');
             include_once('./views/bos.php');
             include_once('./views/footer.php');

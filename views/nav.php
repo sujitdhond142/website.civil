@@ -5,14 +5,14 @@
         </div>
         <div class="uk-navbar-right">
             <ul class="uk-navbar-nav uk-visible@m">
-                <li class="uk-active"><a href="index.php">Home</a></li>
-                <li>
+                <li class="<?php if(isset($isPageIndex)&&($isPageIndex)){echo "uk-active";}?>"><a href="index.php">Home</a></li>
+                <li class="">
                     <a href="#">People</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="#">Faculty</a></li>
-                            <li><a href="student.php">Student </a></li>
-                            <li><a href="staff.php">Staff</a></li>
+                            <li class="<?php if(isset($isPageFaculty)&&($isPageFaculty)){echo "uk-active";}?>"><a href="faculty.php">Faculty</a></li>
+                            <li class="<?php if(isset($isPageStudent)&&($isPageStudent)){echo "uk-active";}?>"><a href="student.php">Student </a></li>
+                            <li class="<?php if(isset($isPageStaff)&&($isPageStaff)){echo "uk-active";}?>"><a href="staff.php">Staff</a></li>
                         </ul>
                     </div>
                 </li>
@@ -26,18 +26,24 @@
                         </ul>
                     </div>
                 </li>
-                <li>
+                <li class="
+                    <?php
+                        if($isPageAboutUs||$isPagePopeo||$isPageShortTerm||$isPageCesa){
+                            echo "uk-active";
+                        }
+                    ?>
+                ">
                     <a href="#">About</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="popeo.php">PEOs &amp; POs</a></li>
-                            <li><a href="shortterm.php">Short Term Courses</a></li>
-                            <li><a href="cesa.php">CESA</a></li>
+                            <li class="<?php if(isset($isPageAboutUs)&&$isPageAboutUs){echo "uk-active";}?>"><a href="about.php">About Us</a></li>
+                            <li class="<?php if(isset($isPagePopeo)&&($isPagePopeo)){echo "uk-active";}?>"><a href="popeo.php">PEOs &amp; POs</a></li>
+                            <li class="<?php if(isset($isPageShortTerm)&&($isPageShortTerm)){echo "uk-active";}?>"><a href="shortterm.php">Short Term Courses</a></li>
+                            <li class="<?php if(isset($isPageCesa)&&($isPageCesa)){echo "uk-active";}?>"><a href="cesa.php">CESA</a></li>
                         </ul>
                     </div>
                 </li>
-                <li>
+                <li class="<?php if(isset($isPageLaboratories)&&($isPageLaboratories)){echo "uk-active";}?>">
                     <a href="#">Infrastructure</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
@@ -45,7 +51,7 @@
                         </ul>
                     </div>
                 </li>
-                <li>
+                <li class="<?php if(isset($isPageBos)&&($isPageBos)){echo "uk-active";}?>">
                     <a href="#">BoS</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
@@ -54,7 +60,7 @@
                         </ul>
                     </div>
                 </li>
-                <li><a href="photogallery.php">Photogallery</a></li>
+                <li class="<?php if(isset($isPagePhotoGallery)&&($isPagePhotoGallery)){echo "uk-active";}?>"><a href="photogallery.php">Photogallery</a></li>
             </ul>
             <a uk-navbar-toggle-icon="" href="#offcanvas" uk-toggle="" class="uk-navbar-toggle uk-hidden@m uk-navbar-toggle-icon uk-icon">
                 <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" ratio="1">
