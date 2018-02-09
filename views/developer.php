@@ -1,9 +1,8 @@
-
-
+<div class="uk-padding uk-text-center">
+    <h3 class="uk-h2">Website Developers</h3>
 </div>
-<div class="uk-child-width-1-2@s uk-text-center uk-padding" uk-grid>
+<div class="uk-child-width-1-2@s uk-text-center uk-padding uk-padding-remove-top people-list" uk-grid>
     <div>
-    <h3>website devloper</h3>
         <div class="uk-card uk-card-default">
             <div class="uk-card-media-top">
                 <img src="assets/images/devs/arc.jpg" alt="">
@@ -12,6 +11,11 @@
                 <h3 class="uk-card-title">Mr. Avinash. R.Chavan</h3>
                 <p>Web Devloper</p>
                 <p>S.Y(Computer)</p>
+            </div>
+            <div class="uk-card-footer">
+                <a href="https://github.com/arcreador">
+                    Github Profile
+                </a>
             </div>
         </div>
     </div>
@@ -25,6 +29,11 @@
                 <p>Web Devloper</p>
                 </p>T.Y(Computer)</p>
             </div>
+            <div class="uk-card-footer">
+                <a href="https://github.com/sujitdhond142">
+                    Github Profile
+                </a>
+            </div>
         </div>
     </div>
     <div>
@@ -36,6 +45,11 @@
                 <h3 class="uk-card-title">Mr. Prasad. K. Andhale</h3>
                 <p>Web devloper</p>
                 <p>S.Y(Computer)</p>
+            </div>
+            <div class="uk-card-footer">
+                <a href="https://github.com/prasad1807">
+                    Github Profile
+                </a>
             </div>
         </div>
     </div>
