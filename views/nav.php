@@ -34,7 +34,7 @@
                 </li>
                 <li class="
                     <?php
-                        if($isPageAboutUs||$isPagePopeo||$isPageShortTerm||$isPageCesa){
+                        if($isPageAboutUs||$isPagePopeo||$isPageShortTerm||$isPageCesa||$isPageActivities){
                             echo "uk-active";
                         }
                     ?>
@@ -46,6 +46,7 @@
                             <li class="<?php if(isset($isPagePopeo)&&($isPagePopeo)){echo "uk-active";}?>"><a href="popeo.php">PEOs &amp; POs</a></li>
                             <li class="<?php if(isset($isPageShortTerm)&&($isPageShortTerm)){echo "uk-active";}?>"><a href="shortterm.php">Short Term Courses</a></li>
                             <li class="<?php if(isset($isPageCesa)&&($isPageCesa)){echo "uk-active";}?>"><a href="cesa.php">CESA</a></li>
+                            <li class="<?php if(isset($isPageActivities)&&($isPageActivities)){echo "uk-active";}?>"><a href="activities.php">Activities &amp; Achievements</a></li>
                         </ul>
                     </div>
                 </li>
@@ -99,6 +100,7 @@
                 <li><a href="about.php">About Us</a></li>
                 <li><a href="popeo.php">PEOs &amp; POs</a></li>
                 <li><a href="shortterm.php">Short Term Courses</a></li>
+                <li><a href="activities.php">Activities &amp; Achievements</a></li>
 
                 <li class="uk-nav-header">Infrastructure</li>
                 <li><a href="laboratories.php">Laboratories</a></li>
