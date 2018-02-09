@@ -1,5 +1,5 @@
 <h1 class="uk-h1 uk-padding uk-text-center">Photo<sapn style=color:red>gallery</sapn></h1>
-<div class="text-center pg-container uk-child-width-1-3@m" uk-grid uk-lightbox="animation: slide">
+<div class="text-center pg-container uk-child-width-1-3@m uk-margin-bottom" uk-lightbox="animation: slide">
     <div class="pg-thumb">
         <a class="uk-inline" href="assets/images/gallery/pic1.jpg" >
             <img src="assets/images/gallery/pic1.jpg" alt="">
