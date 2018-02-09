@@ -37,7 +37,7 @@
     <div>
         <div class="uk-card uk-card-default">
             <div class="uk-card-media-top">
-                <img src="assets/images/photo2.jpg" alt="">
+                <img src="assets/images/staff/civil_staff4.jpg" alt="">
             </div>
             <div class="uk-card-body">
                 <h3 class="uk-card-title">Prof. V. T. Patil</h3>
@@ -53,7 +53,7 @@
     <div>
         <div class="uk-card uk-card-default">
             <div class="uk-card-media-top">
-                <img src="assets/images/photo2.jpg" alt="">
+                <img src="assets/images/staff/civil_staff3.jpg" alt="">
             </div>
             <div class="uk-card-body">
                 <h3 class="uk-card-title">Dr. V. R. Saraf</h3>
@@ -69,7 +69,7 @@
     <div>
         <div class="uk-card uk-card-default">
             <div class="uk-card-media-top">
-                <img src="assets/images/photo2.jpg" alt="">
+                <img src="assets/images/staff/civil_staff6.jpg" alt="">
             </div>
             <div class="uk-card-body">
                 <h3 class="uk-card-title">Prof. V. P. Jadhao</h3>
