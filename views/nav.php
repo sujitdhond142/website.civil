@@ -1,7 +1,7 @@
 <div>
     <nav id="navbar" class="uk-navbar-container" uk-navbar>
         <div class="uk-navbar-left ">
-            <a class="uk-navbar-item uk-logo" href="#">Logo</a>
+            <a class="uk-navbar-item uk-logo" href="#"><img src="assets/images/civil_small.png" alt="" style="max-height:70px;height:70px;width:auto"></a>
         </div>
         <div class="uk-navbar-right">
             <ul class="uk-navbar-nav uk-visible@m">
