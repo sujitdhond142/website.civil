@@ -8,8 +8,8 @@
                 <img src="assets/images/devs/arc.jpg" alt="">
             </div>
             <div class="uk-card-body">
-                <h3 class="uk-card-title">Mr. Avinash. R.Chavan</h3>
-                <p>Web Devloper</p>
+                <h3 class="uk-card-title">Mr. Avinash R.Chavan</h3>
+                <p>Web Developer</p>
                 <p>S.Y(Computer)</p>
             </div>
             <div class="uk-card-footer">
@@ -25,8 +25,8 @@
                 <img src="assets/images/devs/spd.jpg" alt="">
             </div>
             <div class="uk-card-body">
-                <h3 class="uk-card-title">Mr. Sujit. P. Dhonde</h3>
-                <p>Web Devloper</p>
+                <h3 class="uk-card-title">Mr. Sujit P. Dhond</h3>
+                <p>Web Developer</p>
                 </p>T.Y(Computer)</p>
             </div>
             <div class="uk-card-footer">
@@ -42,8 +42,8 @@
                 <img src="assets/images/devs/pka.jpg" alt="">
             </div>
             <div class="uk-card-body">
-                <h3 class="uk-card-title">Mr. Prasad. K. Andhale</h3>
-                <p>Web devloper</p>
+                <h3 class="uk-card-title">Mr. Prasad K. Andhale</h3>
+                <p>Web developer</p>
                 <p>S.Y(Computer)</p>
             </div>
             <div class="uk-card-footer">
@@ -53,6 +53,4 @@
             </div>
         </div>
     </div>
-    
-   
 </div>
