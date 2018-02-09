@@ -8,7 +8,7 @@
                 <img src="assets/images/staff/Civil _Staff1.jpg" alt="">
             </div>
             <div class="uk-card-body">
-                <h3 class="uk-card-title">Mr. K. P.Choudhari</h3>
+                <h3 class="uk-card-title">Mr. K. P. Chaudhari</h3>
                 <p>Civil Lab.Asst</p>
             </div>
         </div>
@@ -19,7 +19,7 @@
                 <img src="assets/images/staff/civil_Staff5.jpg" alt="">
             </div>
             <div class="uk-card-body">
-                <h3 class="uk-card-title">Mrs. M. K. Ramnath</h3>
+                <h3 class="uk-card-title">Mrs. A. R. Madake</h3>
                 <p>Asst. Tech. Lab Civil</p>
             </div>
         </div>
@@ -30,7 +30,7 @@
                 <img src="assets/images/staff/Civil_Staff2.jpg" alt="">
             </div>
             <div class="uk-card-body">
-                <h3 class="uk-card-title">Mr. B. V. Bhaskar</h3>
+                <h3 class="uk-card-title">Mr. V. B. Bhadadive</h3>
                 <p>Asst. Tech. Lab Civil</p>
             </div>
         </div>
