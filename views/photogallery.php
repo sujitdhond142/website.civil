@@ -1,63 +1,48 @@
 <h1 class="uk-h1 uk-padding uk-text-center">Photo<sapn style=color:red>gallery</sapn></h1>
 <div class="text-center pg-container uk-child-width-1-3@m" uk-grid uk-lightbox="animation: slide">
     <div class="pg-thumb">
-        <a class="uk-inline" href="assets/images/gallery/DSC_0292.jpg" caption="Caption 1">
-            <img src="assets/images/gallery/DSC_0292.jpg" alt="">
+        <a class="uk-inline" href="assets/images/gallery/pic1.jpg" >
+            <img src="assets/images/gallery/pic1.jpg" alt="">
         </a>
     </div>
     <div class="pg-thumb">
-        <a class="uk-inline" href="assets/images/gallery/IMG_2211.jpg" caption="Caption 1">
-            <img src="assets/images/gallery/IMG_2211.jpg" alt="">
+        <a class="uk-inline" href="assets/images/gallery/pic2.jpg" >
+            <img src="assets/images/gallery/pic2.jpg" alt="">
         </a>
     </div>
     <div class="pg-thumb">
-        <a class="uk-inline" href="assets/images/gallery/IMG_2266.jpg" caption="Caption 1">
-            <img src="assets/images/gallery/IMG_2266.jpg" alt="">
+        <a class="uk-inline" href="assets/images/gallery/pic3.jpg" >
+            <img src="assets/images/gallery/pic3.jpg" alt="">
         </a>
     </div>
     <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/IMG_20160417_072804.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/IMG_20160417_072804.jpg" alt="">
-            </a>
-        </div>
-        <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/IMG_2399.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/IMG_2399.jpg" alt="">
-            </a>
-        </div>
-        <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/IMG_2348.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/IMG_2348.jpg" alt="">
-            </a>
-        </div>
-        <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/DSC_0300.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/DSC_0300.jpg" alt="">
-            </a>
-        </div>
-        <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/IMG_2442.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/IMG_2442.jpg" alt="">
-            </a>
-        </div>
-        <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/IMG_20160417_075629.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/IMG_20160417_075629.jpg" alt="">
-            </a>
-        </div>
-        <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/IMG_20160417_072720.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/IMG_20160417_072720.jpg" alt="">
-            </a>
-        </div>
-        <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/IMG_2431.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/IMG_2431.jpg" alt="">
-            </a>
-        </div>
-        <div class="pg-thumb">
-            <a class="uk-inline" href="assets/images/gallery/IMG_20160417_065739.jpg" caption="Caption 1">
-                <img src="assets/images/gallery/IMG_20160417_065739.jpg" alt="">
-            </a>
-        </div>
+        <a class="uk-inline" href="assets/images/gallery/pic4.jpg" >
+            <img src="assets/images/gallery/pic4.jpg" alt="">
+        </a>
+    </div>
+    <div class="pg-thumb">
+        <a class="uk-inline" href="assets/images/gallery/pic5.jpg" >
+            <img src="assets/images/gallery/pic5.jpg" alt="">
+        </a>
+    </div>
+    <div class="pg-thumb">
+        <a class="uk-inline" href="assets/images/gallery/pic6.jpg" >
+            <img src="assets/images/gallery/pic6.jpg" alt="">
+        </a>
+    </div>
+    <div class="pg-thumb">
+        <a class="uk-inline" href="assets/images/gallery/pic7.jpg" >
+            <img src="assets/images/gallery/pic7.jpg" alt="">
+        </a>
+    </div>
+    <div class="pg-thumb">
+        <a class="uk-inline" href="assets/images/gallery/pic8.jpg" >
+            <img src="assets/images/gallery/pic8.jpg" alt="">
+        </a>
+    </div>
+    <div class="pg-thumb">
+        <a class="uk-inline" href="assets/images/gallery/pic9.jpg" >
+            <img src="assets/images/gallery/pic9.jpg" alt="">
+        </a>
+    </div>
 </div>

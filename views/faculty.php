@@ -1,7 +1,7 @@
 <div class="uk-h1 uk-text-center">
     OUR &nbsp;<span style="color:blue">FACULTY</span>
 </div>
-<div class="uk-child-width-1-2@s uk-text-center uk-padding" uk-grid>
+<div class="uk-child-width-1-2@s uk-text-center uk-padding people-list" uk-grid>
     <div>
         <div class="uk-card uk-card-default">
             <div class="uk-card-media-top">
