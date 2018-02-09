@@ -32,7 +32,7 @@
     <div class="my-col-40-s">
         <div class="mwidget">
             <div class="mwidget-head uk-h3">
-                NEWS &amp; EVENTS
+                NOTICES
             </div>
             <ul class="mwidget-list" >
                 <marquee scrollamount="3" direction="up" onmouseover="this.stop()" onmouseout="this.start()">
