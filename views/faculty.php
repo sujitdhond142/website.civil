@@ -12,7 +12,7 @@
                 <p>Prof. Civil &amp; Principal</p>
             </div>
             <div class="uk-card-footer">
-                <a href="http://">
+                <a href="https://www.gcoej.ac.in/download/biodata-Borkar0.pdf">
                     Read More
                 </a>
             </div>
@@ -28,7 +28,7 @@
                 <p>Asso. Prof. &amp; HoD Civil</p>
             </div>
             <div class="uk-card-footer">
-                <a href="http://">
+                <a href="https://www.gcoej.ac.in/download/2017%20January%20-BIO-SSP2.pdf">
                     Read More
                 </a>
             </div>
@@ -44,7 +44,7 @@
                 <p>Asst. Professor APM </p>
             </div>
             <div class="uk-card-footer">
-                <a href="http://">
+                <a href="https://www.gcoej.ac.in/download/vtp_biodata_gcej0.pdf">
                     Read More
                 </a>
             </div>
@@ -60,7 +60,7 @@
                 <p>Asst. Professor Civil</p>
             </div>
             <div class="uk-card-footer">
-                <a href="http://">
+                <a href="https://www.gcoej.ac.in/download/VRS%20biodata_18_2_20170.pdf">
                     Read More
                 </a>
             </div>
@@ -76,7 +76,7 @@
                 <p>Asst. Professor Civil</p>
             </div>
             <div class="uk-card-footer">
-                <a href="http://">
+                <a href="https://www.gcoej.ac.in/download/BIODATA%20VIKAS%20JADHAO1.pdf">
                     Read More
                 </a>
             </div>
