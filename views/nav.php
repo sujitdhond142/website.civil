@@ -6,7 +6,13 @@
         <div class="uk-navbar-right">
             <ul class="uk-navbar-nav uk-visible@m">
                 <li class="<?php if(isset($isPageIndex)&&($isPageIndex)){echo "uk-active";}?>"><a href="index.php">Home</a></li>
-                <li class="">
+                <li class="
+                    <?php
+                        if($isPageFaculty||$isPageStudent||$isPageStaff){
+                            echo "uk-active";
+                        }
+                    ?>
+                ">
                     <a href="#">People</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
@@ -16,7 +22,7 @@
                         </ul>
                     </div>
                 </li>
-                <li>
+                <li class="<?php if($isPageNotices){ echo "uk-active";}?>">
                     <a href="#">Calender</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
@@ -52,7 +58,7 @@
                     </div>
                 </li>
                 <li class="<?php if(isset($isPageBos)&&($isPageBos)){echo "uk-active";}?>">
-                    <a href="#">BoS</a>
+                    <a href="bos.php">BoS</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
                             <li><a href="bos.php#composition">Composition</a></li>
@@ -79,8 +85,8 @@
                 <li><a href="index.php">Home</a></li>
 
                 <li class="uk-nav-header">People</li>
-                <li><a href="#">Faculty</a></li>
-                <li><a href="#">Student</a></li>
+                <li><a href="faculty.php">Faculty</a></li>
+                <li><a href="student.php">Student</a></li>
                 <li><a href="staff.php">Staff</a></li>
 
 

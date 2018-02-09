@@ -19,7 +19,7 @@
                 <img src="assets/images/staff/civil_Staff5.jpg" alt="">
             </div>
             <div class="uk-card-body">
-                <h3 class="uk-card-title">Miss. M. K. Ramnath</h3>
+                <h3 class="uk-card-title">Mrs. M. K. Ramnath</h3>
                 <p>Asst. Tech. Lab Civil</p>
             </div>
         </div>

@@ -4,9 +4,9 @@
 <body>
     <div class="wrapper">
         <?php
-            $isPageNotices=true;
+            $isPageStudent=true;
             include_once('./views/nav.php');
-            include_once('./views/notices.php');
+            include_once('./views/student.php');
             include_once('./views/footer.php');
         ?>
     </div>
