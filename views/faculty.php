@@ -13,7 +13,7 @@
             </div>
             <div class="uk-card-footer">
                 <a href="http://">
-                    Biodata
+                    Read More
                 </a>
             </div>
         </div>
@@ -29,7 +29,7 @@
             </div>
             <div class="uk-card-footer">
                 <a href="http://">
-                    Biodata
+                    Read More
                 </a>
             </div>
         </div>
@@ -45,7 +45,7 @@
             </div>
             <div class="uk-card-footer">
                 <a href="http://">
-                    Biodata
+                    Read More
                 </a>
             </div>
         </div>
@@ -61,7 +61,7 @@
             </div>
             <div class="uk-card-footer">
                 <a href="http://">
-                    Biodata
+                    Read More
                 </a>
             </div>
         </div>
@@ -77,7 +77,7 @@
             </div>
             <div class="uk-card-footer">
                 <a href="http://">
-                    Biodata
+                    Read More
                 </a>
             </div>
         </div>
