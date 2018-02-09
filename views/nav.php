@@ -28,7 +28,7 @@
                         <ul class="uk-nav uk-navbar-dropdown-nav">
                             <li><a href="notices.php">Timetable</a></li>
                             <li><a href="#">Events</a></li>
-                            <li><a href="notices.php">Academic Calender</a></li>
+                            <li><a href="https://gcoej.ac.in/download/Final_Academic_Calendar_SY_2017-180.pdf">Academic Calender</a></li>
                         </ul>
                     </div>
                 </li>

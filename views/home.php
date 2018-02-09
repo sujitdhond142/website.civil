@@ -35,11 +35,25 @@
                 NEWS &amp; EVENTS
             </div>
             <ul class="mwidget-list" >
-                <marquee scrollamount="4" direction="up" onmouseover="this.stop()" onmouseout="this.start()">
-                    <li><a href="#">Some news</a></li>
-                    <li><a href="#">Second news</li>
+                <marquee scrollamount="3" direction="up" onmouseover="this.stop()" onmouseout="this.start()">
+                    <?php
+                        include_once('includes/dbconnect.php');
+                        $pname = "Civil Engineering - Notice Board";
+                        $query = mysqli_query($mysqli,"SELECT * FROM pp_files WHERE ppage='$pname'");
+                        $i=1;
+                        while($row=mysqli_fetch_array($query)){
+                            ?>
+                                <li><a href="<?php echo "https://gcoej.ac.in/".$row['url'];?>" taget="_blank"><?php echo $row['file_name'];?></a></li>
+                        <?php
+                            $i++;
+                        }
+                    ?>
+
                 </marquee>
             </ul>
+            <p style="padding-left:30px">
+                <a href="notices.php">Show All</a>
+            </p>
         </div>
     </div>
 </div>

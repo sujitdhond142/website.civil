@@ -10,30 +10,21 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>1</td>
-                    <td>Even Semester 2018 Time Table</td>
-                    <td><a href="https://gcoej.ac.in/download/Time%20Table%20Even%202018012520181.pdf">Download</a></td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>Equivalence for B Tech Second year</td>
-                    <td><a href="https://gcoej.ac.in/download/Equivalence_SYBTech0.pdf">Download</a></td>
-                </tr>
-                <tr>
-                    <td>3</td>
-                    <td>Equivalence for B Tech Third year</td>
-                    <td><a href="https://gcoej.ac.in/download/Equivalence_TYBTech0.pdf">Download</a></td>
-                </tr>
-                <tr>
-                    <td>5</td>
-                    <td>Equivalence B. Tech. Civil</td>
-                    <td><a href="https://gcoej.ac.in/download/Equivalence_BTech%20REvised0.pdf">Download</a></td>
-                </tr>
-                <tr>
-                    <td>6</td>
-                    <td>S.Y. to L.Y.B.Tech Academic Calender 2017-18</td>
-                    <td><a href="https://gcoej.ac.in/download/Final_Academic_Calendar_SY_2017-180.pdf">Download</a></td>
-                </tr>
+                <?php
+                    include_once('includes/dbconnect.php');
+                    $pname = "Civil Engineering - Notice Board";
+                    $query = mysqli_query($mysqli,"SELECT * FROM pp_files WHERE ppage='$pname'");
+                    $i=1;
+                    while($row=mysqli_fetch_array($query)){
+                        ?>
+                        <tr>
+                            <td><?php echo $i;?></td>
+                            <td><?php echo $row['file_name'];?></td>
+                            <td><a href="<?php echo "https://gcoej.ac.in/".$row['url'];?>" taget="_blank">Download</a></td>
+                        </tr>
+                    <?php
+                        $i++;
+                    }
+                ?>
             </tbody>
         </table>
